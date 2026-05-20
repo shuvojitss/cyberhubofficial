@@ -1,0 +1,11 @@
+{
+    "workers": [
+        {
+            "id": 1,
+            "name": "worker 1",
+            "port": 5001,
+            "folder": "worker",
+            "removable": false
+        }
+    ]
+}

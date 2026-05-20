@@ -1,0 +1,422 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2025-01-01 00:00:00",
+        "excel_hash": "GENESIS",
+        "prev_hash": "0",
+        "hash": "1301cfea5156f7ad5befde096452c7152bb9ae9813ca9a9da555e40cc355fb54"
+    },
+    {
+        "index": 1,
+        "timestamp": "2026-05-18T10:07:01.809976+00:00",
+        "excel_hash": "c81c50dcdf6aabe45b4be1fc5044f9d596a0ebcb4e325a5106f8b039aac2854b",
+        "prev_hash": "1301cfea5156f7ad5befde096452c7152bb9ae9813ca9a9da555e40cc355fb54",
+        "hash": "5461385880eb09808b4989d01fd9449cbc575d397871c52864749aa693213498"
+    },
+    {
+        "index": 2,
+        "timestamp": "2026-05-18T10:07:01.892079+00:00",
+        "excel_hash": "363bede438f01dbb8b958a4d6b0b2dd4fde39dbba140ed1371d0af92aaf51f8a",
+        "prev_hash": "5461385880eb09808b4989d01fd9449cbc575d397871c52864749aa693213498",
+        "hash": "d4dadc61970bbd9729ac7ce654b2f05fd283263810908f2241eabb1e6549fb2b"
+    },
+    {
+        "index": 3,
+        "timestamp": "2026-05-18T10:07:01.967412+00:00",
+        "excel_hash": "aa18f3e0fecf65e5d0fefc58da35aeeb9b299645f47f8d5eab20adac1dedf3c1",
+        "prev_hash": "d4dadc61970bbd9729ac7ce654b2f05fd283263810908f2241eabb1e6549fb2b",
+        "hash": "9250604461e1895ffea9f0ebb8c1a4903def19f9ea60e1b9f6839a59c96d4eee"
+    },
+    {
+        "index": 4,
+        "timestamp": "2026-05-18T10:07:02.032417+00:00",
+        "excel_hash": "f63be25fd31804b83de93a27c82b0225c60a8ba5f6242337ba7254ba60080339",
+        "prev_hash": "9250604461e1895ffea9f0ebb8c1a4903def19f9ea60e1b9f6839a59c96d4eee",
+        "hash": "c30b77878e591af003523eb2288766149ed6689936a6e075625074854c5dca3d"
+    },
+    {
+        "index": 5,
+        "timestamp": "2026-05-18T10:07:02.090396+00:00",
+        "excel_hash": "ab285b03cbeb60a4517b7d35b3e2c89b2ef4b5979c55bf6877b30a224d74ceb0",
+        "prev_hash": "c30b77878e591af003523eb2288766149ed6689936a6e075625074854c5dca3d",
+        "hash": "9480652d0cf9652328673e6197caa98b2da84b4afd40e73d03e22677b36ef99f"
+    },
+    {
+        "index": 6,
+        "timestamp": "2026-05-18T10:07:02.143210+00:00",
+        "excel_hash": "3b477d7a45568f5afbc2bfa5c70de72784feef29746188f307e0055fd1620b35",
+        "prev_hash": "9480652d0cf9652328673e6197caa98b2da84b4afd40e73d03e22677b36ef99f",
+        "hash": "54aa03ced273f6f7869312f84a4122e75fd85bfc9e5e2807c6cbf6dc1cd467f2"
+    },
+    {
+        "index": 7,
+        "timestamp": "2026-05-18T10:07:02.197346+00:00",
+        "excel_hash": "b690bc49f17de24361ec3950958cd91e6964501dd86b25de79a489bb61633490",
+        "prev_hash": "54aa03ced273f6f7869312f84a4122e75fd85bfc9e5e2807c6cbf6dc1cd467f2",
+        "hash": "f3c65ef3ee5b8f39392f487985d9e7b7e0194092d182fcddfe7d9da122193861"
+    },
+    {
+        "index": 8,
+        "timestamp": "2026-05-18T10:07:02.265439+00:00",
+        "excel_hash": "f4e2205af1e492544c6095cc0cb40c2cf2bd561f0beeeed5354efd5e515ff79d",
+        "prev_hash": "f3c65ef3ee5b8f39392f487985d9e7b7e0194092d182fcddfe7d9da122193861",
+        "hash": "f373d3298be4ac59fe307169dc9edd75aa7aa4766e326f014b2d8fc62c926b8f"
+    },
+    {
+        "index": 9,
+        "timestamp": "2026-05-18T10:07:02.313867+00:00",
+        "excel_hash": "58cde509b4b64bdd2623b49f9c78ab4b9a1099936c289cf01143c5d2367bf83d",
+        "prev_hash": "f373d3298be4ac59fe307169dc9edd75aa7aa4766e326f014b2d8fc62c926b8f",
+        "hash": "0fd7707f6f6d1cdff76bd4eae85e19f54d1be8c035749ca8428f653ee3d0dd95"
+    },
+    {
+        "index": 10,
+        "timestamp": "2026-05-18T10:07:02.374541+00:00",
+        "excel_hash": "b4bbf42f9415b32961550ad62f176aca591d4f6e0fba3528da36865c58351462",
+        "prev_hash": "0fd7707f6f6d1cdff76bd4eae85e19f54d1be8c035749ca8428f653ee3d0dd95",
+        "hash": "820316d810783ee5785033770a404e0342120bff611a1b922b515b83f8191a16"
+    },
+    {
+        "index": 11,
+        "timestamp": "2026-05-18T10:07:02.462644+00:00",
+        "excel_hash": "818dbd9faa26e1917f098ef516087742bb707cc98601b8e878e93658a498cdf1",
+        "prev_hash": "820316d810783ee5785033770a404e0342120bff611a1b922b515b83f8191a16",
+        "hash": "c9ba30790b607cec744d981e098c7a142d25f8690b721c208832a04a03a0b774"
+    },
+    {
+        "index": 12,
+        "timestamp": "2026-05-18T10:07:02.528922+00:00",
+        "excel_hash": "f4a9dce6a05011e5159b21ed2dbcada7fcbd17061f3a932e8319be8551e85c36",
+        "prev_hash": "c9ba30790b607cec744d981e098c7a142d25f8690b721c208832a04a03a0b774",
+        "hash": "c147547996be955e29b7cbf4492744ecc26d7edbeae5535152793d3f439c43f9"
+    },
+    {
+        "index": 13,
+        "timestamp": "2026-05-18T10:07:02.602823+00:00",
+        "excel_hash": "7705800a19f96bef2f1c87a68a885aa33b688d3ebd264f5cec4c486cb19a5806",
+        "prev_hash": "c147547996be955e29b7cbf4492744ecc26d7edbeae5535152793d3f439c43f9",
+        "hash": "013bac3eba7ff8e2c686e8f4ce51bcece38a66ab7f766c9aec235a7d9a7d9a34"
+    },
+    {
+        "index": 14,
+        "timestamp": "2026-05-18T10:07:02.680072+00:00",
+        "excel_hash": "ecfdca3b685100c45ea1d03f5bf7dafe0f84b15dbf33e1bddc9fdfd845b9b9cc",
+        "prev_hash": "013bac3eba7ff8e2c686e8f4ce51bcece38a66ab7f766c9aec235a7d9a7d9a34",
+        "hash": "d1b4b3cb6422126a300e0bd41e50157c72cb35743d14008504af33f319435480"
+    },
+    {
+        "index": 15,
+        "timestamp": "2026-05-18T10:07:02.756755+00:00",
+        "excel_hash": "ec23711d16195c49bb4328d038cac39556478405d50829e0a1e85397d2ad1de9",
+        "prev_hash": "d1b4b3cb6422126a300e0bd41e50157c72cb35743d14008504af33f319435480",
+        "hash": "c91da831b32dfe59ded580cf86599a9016cd639351c12c0047cc4bf3e0c8a166"
+    },
+    {
+        "index": 16,
+        "timestamp": "2026-05-18T10:07:02.818773+00:00",
+        "excel_hash": "dbb46305a25ea11d4c7e866574bd34ae9c2e38ca10f011a667a0f7a1a3cb8aa8",
+        "prev_hash": "c91da831b32dfe59ded580cf86599a9016cd639351c12c0047cc4bf3e0c8a166",
+        "hash": "4975c1428f124faf62737c1749a5f8019fb11ccbb69a7bf069114727c44c1933"
+    },
+    {
+        "index": 17,
+        "timestamp": "2026-05-18T10:07:02.894325+00:00",
+        "excel_hash": "98fee08ca4f96bf3f35b77d08fbf9aeef6e35a0f492e8332c4666a3141d703f5",
+        "prev_hash": "4975c1428f124faf62737c1749a5f8019fb11ccbb69a7bf069114727c44c1933",
+        "hash": "a33e1c519cfe30e702778eecce0f1f7897b8424ee4a428e1a8a0346ace8978a6"
+    },
+    {
+        "index": 18,
+        "timestamp": "2026-05-18T10:07:02.970919+00:00",
+        "excel_hash": "dfa856cce76677d25a57bb2035826905570d79aeb7d300c8cffb1ffbbdda4670",
+        "prev_hash": "a33e1c519cfe30e702778eecce0f1f7897b8424ee4a428e1a8a0346ace8978a6",
+        "hash": "0aa01ddcc9edeb45da609815f1d5ab10afa489707171c8d65d02277fa7ccbd9f"
+    },
+    {
+        "index": 19,
+        "timestamp": "2026-05-18T10:07:03.043865+00:00",
+        "excel_hash": "76df6053a3cfc7dcb880dd25bbe1b0d4e05da7fb4dcec945573012599b835bcd",
+        "prev_hash": "0aa01ddcc9edeb45da609815f1d5ab10afa489707171c8d65d02277fa7ccbd9f",
+        "hash": "dfaa29d196b115b587957bcb19cefd27a8207f4d69ec2611d2419cb17b6793bf"
+    },
+    {
+        "index": 20,
+        "timestamp": "2026-05-18T10:07:03.134254+00:00",
+        "excel_hash": "c98ed0c30828be68b86a3ac4571810dd242f94780589bc431731e7517395b6ef",
+        "prev_hash": "dfaa29d196b115b587957bcb19cefd27a8207f4d69ec2611d2419cb17b6793bf",
+        "hash": "235da18ca8f9017126594a8086354aee19ad62e78177e899748f0bded9524a53"
+    },
+    {
+        "index": 21,
+        "timestamp": "2026-05-18T10:07:03.199906+00:00",
+        "excel_hash": "639d452fad999a1945c3289e954956ad92c7280f03134dd6f861336f053894d5",
+        "prev_hash": "235da18ca8f9017126594a8086354aee19ad62e78177e899748f0bded9524a53",
+        "hash": "159ae79d66cd3953e4d6f61082d91fc4df2d365bc1cc09e58a7c7fd1ffe612d9"
+    },
+    {
+        "index": 22,
+        "timestamp": "2026-05-18T10:07:03.271072+00:00",
+        "excel_hash": "5684c2ed4d37cf2a3a88a77dc05de5fd59164467b828f346ecfb45710f03a479",
+        "prev_hash": "159ae79d66cd3953e4d6f61082d91fc4df2d365bc1cc09e58a7c7fd1ffe612d9",
+        "hash": "b8f300dc8b418deae91a9f344f70b1f434b69d9d982fad1ae03a199b31e1c60f"
+    },
+    {
+        "index": 23,
+        "timestamp": "2026-05-18T10:07:03.352652+00:00",
+        "excel_hash": "2de487aaccf4df6fb274dced5fab35fdb0cefe6b80e9ea2b3ba714d18f5f6742",
+        "prev_hash": "b8f300dc8b418deae91a9f344f70b1f434b69d9d982fad1ae03a199b31e1c60f",
+        "hash": "e369e402240d7bf6df538d22ebbe572fcabcdf6f47694052023488d17a3f71fd"
+    },
+    {
+        "index": 24,
+        "timestamp": "2026-05-18T10:07:03.432307+00:00",
+        "excel_hash": "5c7f6bc3735e466ce55ba8c97198df04c1373b519231f77eddf7a44335884e26",
+        "prev_hash": "e369e402240d7bf6df538d22ebbe572fcabcdf6f47694052023488d17a3f71fd",
+        "hash": "3d909e71a4b821f552240009e454cf7732b9aa2686e8c75958e203d5125df421"
+    },
+    {
+        "index": 25,
+        "timestamp": "2026-05-18T10:07:03.518845+00:00",
+        "excel_hash": "7f4f4d3469cd9593ff32912cf2e471ef9fa8447eb1df574c34f31056a171be1d",
+        "prev_hash": "3d909e71a4b821f552240009e454cf7732b9aa2686e8c75958e203d5125df421",
+        "hash": "68800d84ffa30a63210b917ba96871a3cfd116a37bcd4457994d4bd4c9d4540a"
+    },
+    {
+        "index": 26,
+        "timestamp": "2026-05-18T10:07:03.604193+00:00",
+        "excel_hash": "6e094a7f8142234bef4b920b1a9bd8d193118f9950f03740a777ec80894f87d8",
+        "prev_hash": "68800d84ffa30a63210b917ba96871a3cfd116a37bcd4457994d4bd4c9d4540a",
+        "hash": "2c7ba1a9f9401b1fbf294c8ee9dbc194039b8e345c2cb3063ec636a22727b28e"
+    },
+    {
+        "index": 27,
+        "timestamp": "2026-05-18T10:07:03.702681+00:00",
+        "excel_hash": "c19d2ebac797b3d5262d6a3eb7bcc5c977bc1729b810f2b1e2aadb3e4ccf0b99",
+        "prev_hash": "2c7ba1a9f9401b1fbf294c8ee9dbc194039b8e345c2cb3063ec636a22727b28e",
+        "hash": "0287f815a202f4265b191b27a9901d52e521c5af6ff59e29ee376d0ccfaa0eaf"
+    },
+    {
+        "index": 28,
+        "timestamp": "2026-05-18T10:07:03.787323+00:00",
+        "excel_hash": "4cddcaf84b7ddd729d5498b196dcb7e734c1ebf3267d3f7e971cb5cc6525c82c",
+        "prev_hash": "0287f815a202f4265b191b27a9901d52e521c5af6ff59e29ee376d0ccfaa0eaf",
+        "hash": "c0607fa352c9c7b1bcab01d20f6f91aabe07e0f75da139437b7ae6afa9650706"
+    },
+    {
+        "index": 29,
+        "timestamp": "2026-05-18T10:07:03.889268+00:00",
+        "excel_hash": "6b6749a1bf3d5e0d1d4a8e6c408b8d605982ad4d4278fc1f9835123a05f1e25d",
+        "prev_hash": "c0607fa352c9c7b1bcab01d20f6f91aabe07e0f75da139437b7ae6afa9650706",
+        "hash": "4b8c0543799b21c840c40743766ca00aab825a121cea6abb010304f5c1fbd907"
+    },
+    {
+        "index": 30,
+        "timestamp": "2026-05-18T10:07:03.952939+00:00",
+        "excel_hash": "95701a8f0c638ed214671bc0c41ea534da5222ed7e8e11dfdafe0f87333d1f55",
+        "prev_hash": "4b8c0543799b21c840c40743766ca00aab825a121cea6abb010304f5c1fbd907",
+        "hash": "0d04ffcea9564b6fbdb702b021ec2458855c796670cb35aaa3b860c318b0f37f"
+    },
+    {
+        "index": 31,
+        "timestamp": "2026-05-18T10:07:04.073904+00:00",
+        "excel_hash": "2a1f34b77bb34438785471ae029a56b7d850205072474fd79536742e085ced59",
+        "prev_hash": "0d04ffcea9564b6fbdb702b021ec2458855c796670cb35aaa3b860c318b0f37f",
+        "hash": "f82409cc6f3b1ba151e4d7bfef1dcafd858f7051bad7562d9bf84bb868e5e510"
+    },
+    {
+        "index": 32,
+        "timestamp": "2026-05-18T10:07:04.173377+00:00",
+        "excel_hash": "c9b45d2fba7627879203b09cef3fb019594a6844bfde9f09bdf207b59ead4574",
+        "prev_hash": "f82409cc6f3b1ba151e4d7bfef1dcafd858f7051bad7562d9bf84bb868e5e510",
+        "hash": "b0d467ea344dbb832114c28c21626fbaeb5371cca2393c09adb48ba37d223d54"
+    },
+    {
+        "index": 33,
+        "timestamp": "2026-05-18T10:07:04.255305+00:00",
+        "excel_hash": "7916d1b64a83c4df4cb03bab87bb8d58943dbefdb20bdc23da67cd754f34a4d4",
+        "prev_hash": "b0d467ea344dbb832114c28c21626fbaeb5371cca2393c09adb48ba37d223d54",
+        "hash": "dc8ebff18ece3f25b056955b80b4c933d6279aa2f83435d6f0e95e8410c7b730"
+    },
+    {
+        "index": 34,
+        "timestamp": "2026-05-18T10:07:04.377728+00:00",
+        "excel_hash": "adf040cfb539965a093586fb9710dadf0066eba3f657cb464a3384b8038fb59c",
+        "prev_hash": "dc8ebff18ece3f25b056955b80b4c933d6279aa2f83435d6f0e95e8410c7b730",
+        "hash": "932e0198d243050727ff52752fa6e1ef8aa2e53c0f193421bcb0ed6633b1fd97"
+    },
+    {
+        "index": 35,
+        "timestamp": "2026-05-18T10:07:04.443148+00:00",
+        "excel_hash": "2b4b932795ff8d23c4c4f9264745eb131b75d0dc1db88108a7016dfd18c8edea",
+        "prev_hash": "932e0198d243050727ff52752fa6e1ef8aa2e53c0f193421bcb0ed6633b1fd97",
+        "hash": "0d7cece37050987574b7835da6ca8ecbeff3826f5577f6194d835c9c6c8d7670"
+    },
+    {
+        "index": 36,
+        "timestamp": "2026-05-18T10:07:04.526595+00:00",
+        "excel_hash": "8c84930882e7744db2099f36e1b6b9cfc435e9754e9a89b08039fbe73c683eb0",
+        "prev_hash": "0d7cece37050987574b7835da6ca8ecbeff3826f5577f6194d835c9c6c8d7670",
+        "hash": "d7fa9d4b98dc04fb8943b4fd594c294bddea476d5b5875fd09fd90e0fa9bf60f"
+    },
+    {
+        "index": 37,
+        "timestamp": "2026-05-18T10:07:04.636217+00:00",
+        "excel_hash": "9e2c881726a46d22d44d4bda0a68018b5e57d790f38977869766296b02b1af30",
+        "prev_hash": "d7fa9d4b98dc04fb8943b4fd594c294bddea476d5b5875fd09fd90e0fa9bf60f",
+        "hash": "4b0d1f59cf669cc27e1d185e47b1f5ca0c04ad0ad3838abb915fca4795ada9e7"
+    },
+    {
+        "index": 38,
+        "timestamp": "2026-05-18T10:07:04.713304+00:00",
+        "excel_hash": "240b350c39e40baa331ce41b9e30538734e2a101653fa664f447c6fbe53534f7",
+        "prev_hash": "4b0d1f59cf669cc27e1d185e47b1f5ca0c04ad0ad3838abb915fca4795ada9e7",
+        "hash": "4ad7db1cd8cfca40b9f0d2e7f5e56670a25efda21346fbeec3a7bb0f0b85fa8b"
+    },
+    {
+        "index": 39,
+        "timestamp": "2026-05-18T10:07:04.791261+00:00",
+        "excel_hash": "33f1efcf668d809c3052d2b16d1016a5216573674726fc8f429b64a1f68779d3",
+        "prev_hash": "4ad7db1cd8cfca40b9f0d2e7f5e56670a25efda21346fbeec3a7bb0f0b85fa8b",
+        "hash": "6f92cb8fbbc978cae523ddaf1a788b11672295fb6ee7201fee355357e5cee7a4"
+    },
+    {
+        "index": 40,
+        "timestamp": "2026-05-18T10:07:04.874630+00:00",
+        "excel_hash": "75bd01b1b1df515914eb0b8f8fcba0f059890fbe1d49e6dd730e2d488ff1cd57",
+        "prev_hash": "6f92cb8fbbc978cae523ddaf1a788b11672295fb6ee7201fee355357e5cee7a4",
+        "hash": "2420cba0e06782886a9acb576fbaa75d864cb03597e29499d40368d7c6aad323"
+    },
+    {
+        "index": 41,
+        "timestamp": "2026-05-18T10:07:04.958496+00:00",
+        "excel_hash": "42a01eda78e886cef6403844205a362f44ccbad25bad3c9b4355a8e718b4bd10",
+        "prev_hash": "2420cba0e06782886a9acb576fbaa75d864cb03597e29499d40368d7c6aad323",
+        "hash": "67634bd8dad77f1250ffb611d8f22bde51b0cf83ab38609299e5c96e0a5f4c60"
+    },
+    {
+        "index": 42,
+        "timestamp": "2026-05-18T10:07:05.046727+00:00",
+        "excel_hash": "b2dff512d27fca21c3002761ddea46cbfaa9c5522dfcfb141d29cbb04cee792d",
+        "prev_hash": "67634bd8dad77f1250ffb611d8f22bde51b0cf83ab38609299e5c96e0a5f4c60",
+        "hash": "b08a8d526f1a5759bca8af7c1ca3c7c8922389929e37ab3836f3eef798f13f8c"
+    },
+    {
+        "index": 43,
+        "timestamp": "2026-05-18T10:07:05.214873+00:00",
+        "excel_hash": "3c20042ec843541651384b76c8ecba29f0bfece9d42a9edb6cab3283606b8a94",
+        "prev_hash": "b08a8d526f1a5759bca8af7c1ca3c7c8922389929e37ab3836f3eef798f13f8c",
+        "hash": "9fab101a27e0a6973a2b83918e05e502da166a364ae7d557c9aee44d2a233818"
+    },
+    {
+        "index": 44,
+        "timestamp": "2026-05-18T10:07:05.306098+00:00",
+        "excel_hash": "64fab10429aa0042e4647239ff055b33bd4a53a12fccaa851b0b03a536f5a5ee",
+        "prev_hash": "9fab101a27e0a6973a2b83918e05e502da166a364ae7d557c9aee44d2a233818",
+        "hash": "7d1c54c666fc63146526b8cd8715f542b131f8171f6875c42607534ac41f8806"
+    },
+    {
+        "index": 45,
+        "timestamp": "2026-05-18T10:07:05.397457+00:00",
+        "excel_hash": "020a1fe46a1f0cd763d0533dc3d86466b8f2d2657f98ce08ec03f7e90f1e3112",
+        "prev_hash": "7d1c54c666fc63146526b8cd8715f542b131f8171f6875c42607534ac41f8806",
+        "hash": "2a9545127c033e15384b485d818600bd3e4a152c3268c1d8d79e6de97bbe0c36"
+    },
+    {
+        "index": 46,
+        "timestamp": "2026-05-18T10:07:05.484028+00:00",
+        "excel_hash": "ebf6dc52745e3a01cb37e8f5fb74237337bb36ece5057791db02ee47de630c2f",
+        "prev_hash": "2a9545127c033e15384b485d818600bd3e4a152c3268c1d8d79e6de97bbe0c36",
+        "hash": "6d66ecdb36ba346bdd7b59d9b706f283032c8af5592b9af2a7a262a1d352b39f"
+    },
+    {
+        "index": 47,
+        "timestamp": "2026-05-18T10:07:05.582357+00:00",
+        "excel_hash": "7b2983bc65ceae239e3d24ecc856dc6bf94640bc0c2c2acd22145b658a33d20d",
+        "prev_hash": "6d66ecdb36ba346bdd7b59d9b706f283032c8af5592b9af2a7a262a1d352b39f",
+        "hash": "12f5a379596ba47e966e253e1517d2afd4752158ba490cd5e5787f3f964f8580"
+    },
+    {
+        "index": 48,
+        "timestamp": "2026-05-18T10:07:05.675675+00:00",
+        "excel_hash": "7d48612088dbe9726482550648a7fb7037c3127861e74d17a4ea0867b2584f60",
+        "prev_hash": "12f5a379596ba47e966e253e1517d2afd4752158ba490cd5e5787f3f964f8580",
+        "hash": "0762e2081cffd1b72bb51d44e109e5e6b3213ebbffab8b36aa23fe02efb53722"
+    },
+    {
+        "index": 49,
+        "timestamp": "2026-05-18T10:07:05.780875+00:00",
+        "excel_hash": "0356809c92f2271d3c63761df826c173db5f57f29e5cb80427e0ac41badaa23a",
+        "prev_hash": "0762e2081cffd1b72bb51d44e109e5e6b3213ebbffab8b36aa23fe02efb53722",
+        "hash": "8ecb03bdadc9c2ef5c064680587c9e8a82ce7983c87fc79bf20728a206fb5571"
+    },
+    {
+        "index": 50,
+        "timestamp": "2026-05-18T10:07:05.870740+00:00",
+        "excel_hash": "8029471a4f8dd51fd9fa8d2375cacd0741f73fa63bcb0c6627f70184f69f04c5",
+        "prev_hash": "8ecb03bdadc9c2ef5c064680587c9e8a82ce7983c87fc79bf20728a206fb5571",
+        "hash": "5dbe58de02afe80d81175157ccbe49486f2a2fbe68567404a4f38a9a5b4676ca"
+    },
+    {
+        "index": 51,
+        "timestamp": "2026-05-18T10:07:05.984421+00:00",
+        "excel_hash": "63b785906453d0cd20ed5503e78760e2a5ff8ddd409150d268906e1e64277926",
+        "prev_hash": "5dbe58de02afe80d81175157ccbe49486f2a2fbe68567404a4f38a9a5b4676ca",
+        "hash": "2b36a9c9da8f12c0c2459f210664ff10118196932c3688e6c7f1aae3351116fa"
+    },
+    {
+        "index": 52,
+        "timestamp": "2026-05-18T10:07:06.078579+00:00",
+        "excel_hash": "6e0d465a1870df9145ee1bb1e91b4de51e37717c6cee96b1e250d8ce54810522",
+        "prev_hash": "2b36a9c9da8f12c0c2459f210664ff10118196932c3688e6c7f1aae3351116fa",
+        "hash": "2cf60fbc772cf978212ab6f50766a4e4e10e74a8dce105276187d0015afc4c9a"
+    },
+    {
+        "index": 53,
+        "timestamp": "2026-05-18T10:07:06.178894+00:00",
+        "excel_hash": "37ca6b4eaf805cbfdf00aa934fc1d5fc69e481eacbeb6fd871543d702cc37509",
+        "prev_hash": "2cf60fbc772cf978212ab6f50766a4e4e10e74a8dce105276187d0015afc4c9a",
+        "hash": "0d8869ec1e1eee354ea60dcc4b0a801c624c1c62a39f4b50b4f14fda0284a908"
+    },
+    {
+        "index": 54,
+        "timestamp": "2026-05-18T10:07:06.271957+00:00",
+        "excel_hash": "980ad94a24c9b31f3fa77719ecc9bbb15648d61616f83f715fe26201cf2cbfde",
+        "prev_hash": "0d8869ec1e1eee354ea60dcc4b0a801c624c1c62a39f4b50b4f14fda0284a908",
+        "hash": "007a59d6c1dc60147321604cf17d0d1c8ff55efae4e6fcb9cb2f047e188b3133"
+    },
+    {
+        "index": 55,
+        "timestamp": "2026-05-18T10:07:06.378078+00:00",
+        "excel_hash": "5bc260f68bf240bf0cd4ff5a3fe2d029e2a237a6c79113f41047da5d79953355",
+        "prev_hash": "007a59d6c1dc60147321604cf17d0d1c8ff55efae4e6fcb9cb2f047e188b3133",
+        "hash": "f9b28759de1083c39111dabd36317379497b64f4fb7b77e6aef33ae40408c078"
+    },
+    {
+        "index": 56,
+        "timestamp": "2026-05-18T10:07:06.513127+00:00",
+        "excel_hash": "2ebfe2a99b9c286ae08b1b295ca2bf7945a3e275ef5e6c428e7f7841e986f6e9",
+        "prev_hash": "f9b28759de1083c39111dabd36317379497b64f4fb7b77e6aef33ae40408c078",
+        "hash": "bf931455e43227296647d7e5c0c667168ae86f947aa240096dd8fb3dfdd73f88"
+    },
+    {
+        "index": 57,
+        "timestamp": "2026-05-20T05:58:15.798715+00:00",
+        "excel_hash": "c1dd5c6f5842be10ff921483e2ce5396faeb588f1b41c6abb55451b19d421804",
+        "prev_hash": "bf931455e43227296647d7e5c0c667168ae86f947aa240096dd8fb3dfdd73f88",
+        "hash": "cc582b80eeebd105e6ee3f388da7276b7eaa34344f1fa602c19c464047e601be"
+    },
+    {
+        "index": 58,
+        "timestamp": "2026-05-20T06:12:14.815428+00:00",
+        "excel_hash": "98582a0547a9acc2f3ad7da3302e1db1467a801209e9ed5624fa4ba60362eae1",
+        "prev_hash": "cc582b80eeebd105e6ee3f388da7276b7eaa34344f1fa602c19c464047e601be",
+        "hash": "706efd60ed595e1a20fd1ff4a73884a1b6189a60f939b1801406ff8eee3fe63b"
+    },
+    {
+        "index": 59,
+        "timestamp": "2026-05-20T06:13:42.320387+00:00",
+        "excel_hash": "30b2e9557dac98f6d59b028ce0dd214865fc6ed636d8399a757c2dfbb002f349",
+        "prev_hash": "706efd60ed595e1a20fd1ff4a73884a1b6189a60f939b1801406ff8eee3fe63b",
+        "hash": "e2215bc34224284c941dbf5ea3ec33b841550ca10f68872ede9e05b89c25c6b0"
+    }
+]
