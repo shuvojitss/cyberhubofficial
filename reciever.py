@@ -57,7 +57,7 @@ def update_sender(ip, log_count):
             INSERT INTO senders (ip, hostname, total_logs, first_seen, last_seen)
             VALUES (?, ?, ?, ?, ?)
             ON CONFLICT(ip) DO UPDATE SET
-                total_logs = total_logs + excluded.total_logs,
+                total_logs = senders.total_logs + excluded.total_logs,
                 last_seen  = excluded.last_seen
             """,
             (ip, hostname, log_count, now, now),

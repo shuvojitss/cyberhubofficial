@@ -28,6 +28,12 @@ class DBWrapper:
                     query = query.rstrip()
                     query += f" ON CONFLICT ({pk}) DO UPDATE SET {updates}"
 
+            if "INSERT OR IGNORE INTO" in query:
+                import re
+                query = re.sub(r"INSERT OR IGNORE INTO", "INSERT INTO", query, flags=re.IGNORECASE)
+                query = query.rstrip()
+                query += " ON CONFLICT DO NOTHING"
+
             # Replace placeholders
             query = query.replace("?", "%s")
             
@@ -55,6 +61,12 @@ class DBWrapper:
                     query = re.sub(r"INSERT OR REPLACE INTO", "INSERT INTO", query, flags=re.IGNORECASE)
                     query = query.rstrip()
                     query += f" ON CONFLICT ({pk}) DO UPDATE SET {updates}"
+
+            if "INSERT OR IGNORE INTO" in query:
+                import re
+                query = re.sub(r"INSERT OR IGNORE INTO", "INSERT INTO", query, flags=re.IGNORECASE)
+                query = query.rstrip()
+                query += " ON CONFLICT DO NOTHING"
 
             # Replace placeholders
             query = query.replace("?", "%s")
