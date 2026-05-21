@@ -37,6 +37,31 @@ class DBWrapper:
             cursor.execute(query)
         return cursor
 
+    def executemany(self, query: str, params_list: list):
+        cursor = self.conn.cursor()
+        if self.is_postgres:
+            # Replace sqlite syntax with postgres syntax
+            query = query.replace("INTEGER PRIMARY KEY AUTOINCREMENT", "SERIAL PRIMARY KEY")
+            query = query.replace("INTEGER PRIMARY KEY", "SERIAL PRIMARY KEY")
+            
+            if "INSERT OR REPLACE INTO" in query:
+                import re
+                match = re.search(r"INSERT OR REPLACE INTO\s+(\w+)\s*\((.*?)\)", query, re.IGNORECASE)
+                if match:
+                    table = match.group(1)
+                    cols = [c.strip() for c in match.group(2).split(",")]
+                    pk = cols[0]
+                    updates = ", ".join([f"{c} = EXCLUDED.{c}" for c in cols if c != pk])
+                    query = re.sub(r"INSERT OR REPLACE INTO", "INSERT INTO", query, flags=re.IGNORECASE)
+                    query = query.rstrip()
+                    query += f" ON CONFLICT ({pk}) DO UPDATE SET {updates}"
+
+            # Replace placeholders
+            query = query.replace("?", "%s")
+            
+        cursor.executemany(query, params_list)
+        return cursor
+
     def commit(self):
         self.conn.commit()
 
